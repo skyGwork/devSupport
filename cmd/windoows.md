@@ -8,3 +8,5 @@
 - cls
 
 - cd \Users\skyde
+
+- mkdir confir app
