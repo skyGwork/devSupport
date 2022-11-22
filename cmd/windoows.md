@@ -1,3 +1,5 @@
+## from windowTerminal
+
 `type nul > main.md` - To create an empty file
 
 - cd\
@@ -10,3 +12,12 @@
 - cd \Users\skyde
 
 - mkdir confir app
+
+## from vsCodeIntTerminal
+
+```bash
+Microsoft Windows [Version 10.0.19044.2130]
+(c) Microsoft Corporation. All rights reserved.
+D:\devExpo\css-projects>cd Natours
+D:\devExpo\css-projects\Natours>
+```
