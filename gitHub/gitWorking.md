@@ -41,30 +41,31 @@ git push -u origin main
 ## Generating public/private ed25519 key pair.
 
 ```bash
-skyde@SEL MINGW64 ~
-$ ssh-keygen -t ed25519 -C "yourEmail"
+Microsoft Windows [Version 10.0.19044.2251]
+(c) Microsoft Corporation. All rights reserved.
 
-Enter file in which to save the key (/c/Users/skyde/.ssh/id_ed25519): /c/Users/skyde/.ssh/id_ed25519_<alies>
-
+C:\Users\skyde>ssh-keygen -t ed25519 -C "skyinnk.----@gmail.com"
+Generating public/private ed25519 key pair.
+Enter file in which to save the key (C:\Users\skyde/.ssh/id_ed25519): C:\Users\skyde/.ssh/id_ed25519_<aliesname>
 Enter passphrase (empty for no passphrase):
 Enter same passphrase again:
-Your identification has been saved in /c/Users/skyde/.ssh/id_ed25519_<alies>
-Your public key has been saved in /c/Users/skyde/.ssh/id_ed25519_<alies>.pub
+Your identification has been saved in C:\Users\skyde/.ssh/id_ed25519_<aliesname>.
+Your public key has been saved in C:\Users\skyde/.ssh/id_ed25519_<aliesname>.pub.
 The key fingerprint is:
-SHA256:84F6149qR4HJRoHYA2vY12hJZzrS5DovPuryhGgg5sE <email>
+SHA256:NLANruQKLIHUcRwoRqcZMbxCLHBMpVs7q31SgJsTvvo skyinnk.sel@gmail.com
 The key's randomart image is:
 +--[ED25519 256]--+
-|      .+o.+.     |
-|     o.*+B.      |
-|    . = X+.o     |
-|.    . = o= .    |
-|oE    o S..  .   |
-|=...   + o o.    |
-|.o. . o o o..    |
-|. .. ..o .. .o   |
-|   ++... ..o. .  |
+|*O=+=o+          |
+|+BB+.o =         |
+|*o+.o o +        |
+|ooo=.o . .       |
+|+o.+=.  S        |
+|..=. o.          |
+|  .o..           |
+|  .o. .          |
+|.oE .o           |
 +----[SHA256]-----+
 
-skyde@SEL MINGW64 ~
-$
+C:\Users\skyde>
+
 ```
