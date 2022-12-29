@@ -40,6 +40,8 @@ git push -u origin main
 
 ## Generating public/private ed25519 key pair.
 
+`ssh-keygen -t ed25519 -C "skyinnk.----@gmail.com"`
+
 ```bash
 Microsoft Windows [Version 10.0.19044.2251]
 (c) Microsoft Corporation. All rights reserved.

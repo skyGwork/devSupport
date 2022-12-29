@@ -1,3 +1,5 @@
+- [Windows CMD Commands Cheat Sheet](https://serverspace.io/support/help/windows-cmd-commands-cheat-sheet/)
+
 ## from windowTerminal
 
 `type nul > main.md` - To create an empty file
